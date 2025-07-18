@@ -13,7 +13,7 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 - 🧠 Currently Learning: Microservices, Docker, Azure  
 - 📃 Certified: Scrum Fundamentals Certified (SFC)
 
-<p align="left">📈 GitHub Stats</p>
+## 📈 GitHub Stats
 
 ###
 
@@ -25,16 +25,11 @@ I'm a Full Stack Developer passionate about building scalable web applications a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andre-fanelli&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-
-###
-
 <img src="https://raw.githubusercontent.com/andre-fanelli/andre-fanelli/output/snake.svg" alt="Snake animation" />
 
----
-
 ###
 
-<p align="left">🛠️ Technologies & Tools</p>
+## 🛠️ Technologies & Tools
 
 ###
 
@@ -66,9 +61,7 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 
 ###
 
----
-
-<p align="left">📫 Let's Connect</p>
+## 📫 Let's Connect
 
 ###
 
