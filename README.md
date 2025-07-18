@@ -7,8 +7,10 @@
 
 ## 💼 About Me
 
-I'm a Full Stack Developer passionate about building scalable web applications and modern user interfaces. I enjoy solving real-world problems with clean, maintainable code and applying best practices like Clean Architecture and SOLID principles.
+I'm a Full Stack Developer passionate about building scalable web applications and modern user interfaces. I enjoy solving real-world problems with clean, maintainable code and applying best practices.
 
+- 🎓 Degree in Systems Analysis and Development  
+- 🎓 Currently pursuing a Postgraduate Specialization in Software Engineering
 - 🔧 Main Techs: ASP.NET Core, Angular, SQL Server  
 - 🧠 Currently Learning: Microservices, Docker, Azure  
 - 📃 Certified: Scrum Fundamentals Certified (SFC)
@@ -58,17 +60,11 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 
 ###
 
-<img src="https://raw.githubusercontent.com/andre-fanelli/andre-fanelli/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## 📫 Let's Connect
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/andre-fanelli/)
+[![Email](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:andrefanelli@hotmail.com)
 
 ###
