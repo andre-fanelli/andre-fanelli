@@ -64,7 +64,10 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 
 ###
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/andre-fanelli/)
 [![Email](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:andrefanelli@hotmail.com)
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/andre-fanelli/)
+[![Leetcode](https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png)](https://leetcode.com/u/andrefanelli/)
+
+
 
 ###
