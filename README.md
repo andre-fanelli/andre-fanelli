@@ -58,7 +58,10 @@ I'm a Full Stack Developer passionate about building scalable web applications a
   <img src="https://github-profile-trophy.vercel.app?username=andre-fanelli&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/andre-fanelli/andre-fanelli/output/snake.svg" alt="Snake animation" />
+
 ###
+
 
 ## 📫 Let's Connect
 
