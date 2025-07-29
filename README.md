@@ -1,6 +1,6 @@
-# Hi there 👋 I'm André Fanelli
+# Hi! I'm, André Fanelli... 😉
 
-🎯 Full Stack Developer | C# .NET • Angular • SQL Server  
+🎯 Full Stack Developer | C# • .NET • Angular • SQL Server  
 📍 Based in Brazil | Open to remote opportunities  
 
 ---
