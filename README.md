@@ -1,13 +1,13 @@
 # Hi! I'm, André Fanelli... 😉
 
-🎯 Full Stack Developer | C# • .NET • Angular • SQL Server  
+🎯 Junior Full Stack Developer | C# • .NET • Angular • SQL Server  
 📍 Based in Brazil | Open to remote opportunities  
 
 ---
 
 ## 💼 About Me
 
-I'm a Full Stack Developer passionate about building scalable web applications and modern user interfaces. I enjoy solving real-world problems with clean, maintainable code and applying best practices.
+I'm a Junior Full Stack Developer passionate about building scalable web applications and modern user interfaces. I enjoy solving real-world problems with clean, maintainable code and applying best practices.
 
 - 🎓 Degree in Systems Analysis and Development  
 - 🎓 Currently pursuing a Postgraduate Specialization in Software Engineering
