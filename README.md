@@ -1,4 +1,4 @@
-# Olá! Eu sou o André Fanelli 👋
+# Olá, mundo! Eu sou o André Fanelli 👋🚀
 
 <div align="left">
 
@@ -11,18 +11,22 @@
 </div>
 
 ### 🎯 Analista de Dados | Desenvolvedor Full Stack
-📍 **Rio de Janeiro, RJ - Brasil** • Aberto a oportunidades e conexões
+📍 **Rio de Janeiro, RJ - Brasil** • Sempre pronto para um bom café, boas ideias e novos desafios! ☕
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 🙋‍♂️ Prazer, André!
 
-Com uma sólida bagagem de **mais de 10 anos em infraestrutura de TI e suporte corporativo**, direcionei minha carreira para o **Desenvolvimento de Software e a Análise de Dados (Data Science & IA)**. Essa trajetória me proporciona uma visão sistêmica diferenciada, facilidade na resolução de problemas complexos e grande habilidade em **traduzir requisitos técnicos para áreas de negócio**.
+Sou um apaixonado por tecnologia que adora transformar problemas reais em soluções inteligentes, práticas e com visual caprichado! 
 
-- 📊 **Dados & FinOps:** Experiência no desenvolvimento de aplicações ponta a ponta (Python + React) para otimização de custos de capacidade em nuvem (Microsoft Fabric e Power BI Embedded), além de monitoramento analítico com Grafana e PostgreSQL.
-- ⚙️ **Desenvolvimento Full Stack:** Foco no ecossistema **.NET (C# e ASP.NET Core)**, frameworks modernos como **Angular** e **React**, e bancos de dados relacionais.
-- 🤖 **IA & Homelab:** Desenvolvo projetos de automação e agentes inteligentes de IA no meu próprio homelab para resolver problemas práticos e analisar métricas do cotidiano.
-- 🤝 **Cultura & Colaboração:** Adepto da filosofia Open Source, trabalho em equipe ágil (Scrum) e compartilhamento contínuo de conhecimento.
+Trago uma bagagem de **mais de 10 anos em infraestrutura de TI e suporte corporativo**, o que me deu uma base incrível de como os sistemas operam "por baixo do capô" e me ensinou uma lição de ouro: **comunicação clara e empatia fazem toda a diferença**. Adoro fazer a ponte entre o "tecniquês" e as necessidades reais de quem está na ponta do negócio. Comigo não tem tempo ruim! 😄
+
+Hoje, o que move o meu dia a dia é o **Desenvolvimento de Software** e o universo de **Dados, FinOps e Inteligência Artificial**:
+
+- 💡 **No mundo dos dados:** Desenvolvo soluções de ponta a ponta (como ferramentas em Python + React para otimização de custos e capacidade em nuvem no Microsoft Fabric / Power BI Embedded) e painéis analíticos no Grafana.
+- ⚙️ **No ecossistema .NET & Web:** Amo construir aplicações modernas e escaláveis com **C# / ASP.NET Core**, frameworks como **Angular** e **React**, e modelagem de bancos relacionais (PostgreSQL, SQL Server).
+- 🤖 **No meu Homelab:** Meu playground favorito! Adoro criar automações inteligentes com agentes de IA para resolver perrengues da rotina e testar novas tecnologias na prática.
+- 🥁 **Além do código:** Sou fã da cultura Open Source, gosto de compartilhar conhecimento e, nas horas vagas, matar a saudade de tocar bateria! 🥁
 
 ---
 
@@ -40,12 +44,12 @@ Com uma sólida bagagem de **mais de 10 anos em infraestrutura de TI e suporte c
 
 ---
 
-## 🚀 Projetos & Áreas de Foco
+## 🚀 Projetos em Destaque
 
-- 💡 **Otimização de Custos em Nuvem (FinOps):** Aplicação para cruzamento de métricas de processamento, tempo de refresh e capacidade no Microsoft Fabric / Power BI Embedded, identificando gargalos e gerando economia direta de recursos.
-- 📦 **Sistema de Inventário de Ativos de TI (Open Source):** Solução Full Stack em .NET / C# voltada para rastreabilidade e gestão completa de equipamentos e ativos de TI corporativos.
-- 📈 **Monitoramento & Observabilidade:** Criação de queries otimizadas, logs estruturados e dashboards no Grafana com PostgreSQL e Zabbix para alta disponibilidade.
-- 🤖 **Agentes de IA & Automação:** Experimentos práticos com agentes autônomos integrando análise exploratória e automação em ambiente Homelab.
+- 💡 **FinOps & Otimização em Nuvem:** Aplicação web para cruzamento de métricas de uso de capacidade, tempo de refresh e processamento no Microsoft Fabric e Power BI Embedded, cortando desperdícios de custos em nuvem.
+- 📦 **Sistema de Inventário de Ativos de TI (Open Source):** Solução Full Stack em .NET / C# para rastreabilidade e gestão completa de equipamentos e ativos de TI corporativos.
+- 📈 **Monitoramento & Observabilidade:** Criação de queries otimizadas, logs e dashboards no Grafana integrados ao PostgreSQL e Zabbix para alta disponibilidade.
+- 🤖 **Homelab & Agentes de IA:** Automações inteligentes integrando agentes de IA e análise exploratória de dados.
 
 ---
 
@@ -80,8 +84,9 @@ Com uma sólida bagagem de **mais de 10 anos em infraestrutura de TI e suporte c
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### 🔧 Infraestrutura, Ferramentas & Metodologias
+### 🔧 Infraestrutura, DevOps & Ferramentas
 <p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -97,14 +102,8 @@ Com uma sólida bagagem de **mais de 10 anos em infraestrutura de TI e suporte c
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andre-fanelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-fanelli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="Linguagens mais utilizadas" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=andre-fanelli&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Troféus do GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=andre-fanelli&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=andre-fanelli&locale=pt-br&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Linguagens mais utilizadas" />
 </div>
 
 <br />
@@ -115,9 +114,9 @@ Com uma sólida bagagem de **mais de 10 anos em infraestrutura de TI e suporte c
 
 ---
 
-## 📫 Vamos nos Conectar?
+## 📫 Vamos bater um papo?
 
-Estou sempre aberto a trocar ideias, fazer networking e colaborar em novos projetos!
+Estou sempre aberto para trocar experiências, falar sobre tecnologia, dados, novos projetos ou até música! Sinta-se à vontade para me mandar uma mensagem:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/andre-fanelli/" target="_blank">
